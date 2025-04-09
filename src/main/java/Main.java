@@ -3,6 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 /**
+ * JavaDoc Instruction
  * This program reads a lists of PC components from  a CSV file,
  * then calculates the total cost based on quantity and unit price,
  * and then print a well formatted report of each component.
